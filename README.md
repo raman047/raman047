@@ -12,4 +12,5 @@
 </div>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=raman047&show_icons=true&theme=tokyonight)
-!![Uzoma Medium Gif] (https://media.giphy.com/media/zd5nypib1IoiIZICFr/giphy.gif)
+
+![Uzoma Medium Gif] (https://media.giphy.com/media/zd5nypib1IoiIZICFr/giphy.gif)
