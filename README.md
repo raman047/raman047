@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I'm a lazy person and a total noob
 
 <div align="left">
-    <img src="https://user-images.githubusercontent.com/81064836/138419580-ba1cad0d-5285-4c3d-a6cb-492489f54b9a.gif" width="320" height="180"/>
+    <img src="https://user-images.githubusercontent.com/81064836/138420212-b870ad23-91d3-49ec-875a-219e09e5acfc.gif" width="320" height="180"/>
 </div>
 
 
