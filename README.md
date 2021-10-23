@@ -1,4 +1,4 @@
-### Hi there, you are visitor no. 👋
+### 👋 Hi there, you are visitor no. 
 ![Visitor Count](https://profile-counter.glitch.me/{raman047}/count.svg)
 
 - 🌱 I’m currently learning how to stop being an idiot
