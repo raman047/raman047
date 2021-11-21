@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning how to stop being an idiot
 - 📚 I'm a biology/medical student but love to mess with Android
-- 📫 How to reach me: Telegram @Raman047 @hydrogen_1
+- 📫 How to reach me: Telegram @cancerslug
 - 🙍‍♂️ Pronouns: He/him
 - ⚡ Fun fact: I'm a lazy person and a total noob
 
