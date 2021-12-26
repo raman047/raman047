@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning random stuff
 - 📚 I'm a biology/medical student but love to mess with Android
-- 📫 How to reach me: Telegram @cancerslug
+- 📫 How to reach me: Telegram @ckryptonp7
 - 👤 Pronouns: He/him
-- 🥅 Goals: Get success (just somehow)
+- 🥅 Goals: idk
 
 <div align="left">
     <img src="https://user-images.githubusercontent.com/81064836/138420212-b870ad23-91d3-49ec-875a-219e09e5acfc.gif" width="320" height="180"/>
