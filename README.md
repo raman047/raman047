@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning random stuff
 - 📚 I'm a biology/medical student but love to mess with Android
-- 📫 How to reach me: Telegram @ckryptonp7
+- 📫 How to reach me: Telegram @kryptonp7
 - 👤 Pronouns: He/him
 - 🥅 Goals: idk
 
