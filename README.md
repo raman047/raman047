@@ -1,9 +1,9 @@
 ### 👋 Hi there, you are visitor no. 
-![Visitor Count](https://profile-counter.glitch.me/{raman047}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{cybr47}/count.svg)
 
 - 🌱 I’m currently learning random stuff
 - 📚 I'm a biology/medical student but love to mess with Android
-- 📫 How to reach me: Telegram @kryptonp7
+- 📫 How to reach me: Telegram @CybR47
 - 👤 Pronouns: He/him
 - 🥅 Goals: idk
 
@@ -14,4 +14,4 @@
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=raman047&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=cybr47&show_icons=true&theme=tokyonight)
