@@ -2,7 +2,7 @@
 ![Visitor Count](https://profile-counter.glitch.me/{cybr47}/count.svg)
 
 - 🌱 I’m currently learning random stuff
-- 📚 I'm a biology/medical student but love to mess with Android
+- 📚 I'm a medical science student who loves to mess with Android
 - 📫 How to reach me: Telegram @CybR47
 - 👤 Pronouns: He/him
 - 🥅 Goals: idk
